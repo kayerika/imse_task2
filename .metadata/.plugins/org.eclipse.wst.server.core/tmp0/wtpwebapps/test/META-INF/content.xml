@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context>
+    <Resource name="jdbc/a1246563"
+        auth="Container"
+        driverClassName="com.mysql.jdbc.Driver"
+        type="javax.sql.DataSource"
+        username="a1246563"
+        password="imse2017"
+        url="jdbc:mysql://a1246563.mysql.univie.ac.at"/>
+</Context>
